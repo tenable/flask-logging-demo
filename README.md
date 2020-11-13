@@ -2,7 +2,7 @@
 
 Supporting code for the Flask Logging demo:
 
-`git clone git@github.eng.tenable.com:snixon/logging_demo.git && cd logging_demo && python3 -m venv venv`
+`git clone <giturl>.git && cd logging_demo && python3 -m venv venv`
 
 ## Single Application File Example:
 ```
